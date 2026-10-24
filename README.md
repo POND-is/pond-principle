@@ -54,7 +54,7 @@ POND stands for:
 ## How to get involved
 
 1. **Star and watch** this repo, and browse [awesome-pond](https://github.com/POND-is/awesome-pond) for projects that already fit the Principle.
-2. **Introduce yourself** in [POND-is Discussions](https://github.com/orgs/POND-is/discussions): who you are, what you're building, what you'd like to build.
+2. **Introduce yourself** in [POND-is Discussions](https://github.com/POND-is/.github/discussions): who you are, what you're building, what you'd like to build.
 3. **Suggest a project** for awesome-pond by opening a pull request (see [CONTRIBUTING.md](https://github.com/POND-is/.github/blob/main/CONTRIBUTING.md)).
 4. **Challenge the Principle.** Open an issue or discussion when something is unclear, wrong, or missing. Constructive criticism is welcome.
 5. **Join the conversation** on [Discord](https://discord.gg/kNvtcjPmJ7) or the [POND X community](https://x.com/i/communities/1695429836993712389).
@@ -70,7 +70,7 @@ Technical expertise is welcome, but not required. "You should not need a doctora
 - **Edge + cloud balance:** where does centralized cloud AI fit as one component, not the only one?
 - **Pondville pilots:** what local, real-world problem could a small community try to solve as a POND network?
 
-Bring answers, experiments and counterarguments to [Discussions](https://github.com/orgs/POND-is/discussions).
+Bring answers, experiments and counterarguments to [Discussions](https://github.com/POND-is/.github/discussions).
 
 ## Links
 
