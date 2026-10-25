@@ -57,7 +57,8 @@ POND stands for:
 2. **Introduce yourself** in [POND-is Discussions](https://github.com/orgs/POND-is/discussions): who you are, what you're building, what you'd like to build.
 3. **Suggest a project** for awesome-pond by opening a pull request (see [CONTRIBUTING.md](https://github.com/POND-is/.github/blob/main/CONTRIBUTING.md)).
 4. **Challenge the Principle.** Open an issue or discussion when something is unclear, wrong, or missing. Constructive criticism is welcome.
-5. **Join the conversation** on [Discord](https://discord.gg/kNvtcjPmJ7) or the [POND X community](https://x.com/i/communities/1695429836993712389).
+5. **Run it yourself.** Try the [POND Starter Kit](https://huggingface.co/collections/POND-is/pond-starter-kit-open-models-for-your-own-hardware) on Hugging Face: open models for chat, code, vision, speech and memory on your own hardware.
+6. **Join the conversation** on [Discord](https://discord.gg/kNvtcjPmJ7) or the [POND X community](https://x.com/i/communities/1695429836993712389).
 
 Technical expertise is welcome, but not required. "You should not need a doctorate, a server farm, or a crypto wallet to participate in the future of intelligence."
 
@@ -76,6 +77,7 @@ Bring answers, experiments and counterarguments to [Discussions](https://github.
 
 - Hub: https://www.pond.is
 - Main article: https://www.pond.is/p/pond-a-human-machine-intelligence
+- Hugging Face: https://huggingface.co/POND-is
 - Discord: https://discord.gg/kNvtcjPmJ7
 - X community: https://x.com/i/communities/1695429836993712389
 - Contact: foundation@pond.is
